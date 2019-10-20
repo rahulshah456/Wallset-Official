@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Wallset</string>
+    <string name="app_name_premium">Wallset Premium</string>
+    <string name="app_name_official">Wallset Official</string>
+
+<!--    &lt;!&ndash; AdMob Test Ads Ids &ndash;&gt;-->
+<!--    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+<!--    <string name="banner_home_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="banner_curated_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="banner_latest_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="banner_trending_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="banner_editor_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="banner_collection_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="banner_fav_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="banner_auto_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="banner_downloads_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="banner_settings_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="banner_about_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="banner_search_collections_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="banner_search_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="banner_pager_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+
+
+
+
+    <!-- AdMob Real Ads Ids -->
+    <string name="admob_app_id">ca-app-pub-8215970961458765~8049069158</string>
+    <string name="banner_home_ad">ca-app-pub-8215970961458765/7674019852</string>
+    <string name="banner_curated_ad">ca-app-pub-8215970961458765/2775264007</string>
+    <string name="banner_latest_ad">ca-app-pub-8215970961458765/7924838279</string>
+    <string name="banner_trending_ad">ca-app-pub-8215970961458765/9098319145</string>
+    <string name="banner_editor_ad">ca-app-pub-8215970961458765/4127890034</string>
+    <string name="banner_collection_ad">ca-app-pub-8215970961458765/9347948193</string>
+    <string name="banner_fav_ad">ca-app-pub-8215970961458765/6721784855</string>
+    <string name="banner_auto_ad">ca-app-pub-8215970961458765/7402094099</string>
+    <string name="banner_downloads_ad">ca-app-pub-8215970961458765/7875563356</string>
+    <string name="banner_settings_ad">ca-app-pub-8215970961458765/3462849082</string>
+    <string name="banner_about_ad">ca-app-pub-8215970961458765/2623236674</string>
+    <string name="banner_search_collections_ad">ca-app-pub-8215970961458765/5408703180</string>
+    <string name="banner_search_ad">ca-app-pub-8215970961458765/2782539844</string>
+    <string name="banner_pager_ad">ca-app-pub-8215970961458765/9727222149</string>
+
+
+
+
+
+    <string name="close">close</string>
+    <string name="like_message">"Please wait, we are adding this wall to your favourites…"</string>
+    <string name="share_message">"Generating Wallpaper for sharing…"</string>
+    <string name="feature_1">No more Ads</string>
+    <string name="feature_2">Unlimited Profiles</string>
+    <string name="feature_3">Unlimited Play-lists</string>
+    <string name="feature_4">Remember last page</string>
+    <string name="feature_5">Custom search filters</string>
+    <string name="feature_6">Access to some Special Collections</string>
+    <string name="order_number_default">order_number_default</string>
+    <string name="purchased">Purchased</string>
+    <string name="order_number">Order Number</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="profile_warning">Premium Feature! On free version of app only 2 profiles can be created…</string>
+    <string name="successful">Successful</string>
+    <string name="failure">Failure</string>
+    <string name="v1_0">v1.0</string>
+
+
+    <string-array name="Trending_Searches">
+        <item>Anime</item>
+        <item>Aviation</item>
+        <item>Abstraction</item>
+        <item>Landscapes</item>
+        <item>Weapon</item>
+        <item>New Year / Christmas</item>
+        <item>Mood</item>
+        <item>Music</item>
+        <item>Men</item>
+        <item>Minimalism</item>
+        <item>Cars</item>
+        <item>Macro</item>
+        <item>Cats</item>
+        <item>Space</item>
+        <item>Interior</item>
+        <item>Games</item>
+        <item>Animals</item>
+        <item>Painting</item>
+        <item>Food</item>
+        <item>Girls</item>
+        <item>City</item>
+        <item>Hi-Tech</item>
+        <item>Flowers</item>
+        <item>Films</item>
+        <item>Fantasy</item>
+        <item>Textures</item>
+        <item>Style</item>
+        <item>Sports</item>
+        <item>Dog</item>
+        <item>Situations</item>
+        <item>Rendering</item>
+        <item>Miscellanea</item>
+        <item>Nature</item>
+        <item>Holidays</item>
+    </string-array>
+
+</resources>
