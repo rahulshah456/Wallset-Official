@@ -1,6 +1,6 @@
 <div align=center><img src="https://github.com/rahulshah456/Wallset-Official/blob/master/logo.png" alt="Via Logo" height="100"/></div>
 
-# <div align=center><a href="https://play.google.com/store/apps/details?id=com.droid2developers.wallset" title="Wallset">Wallset Official - Auto Wallpaper Changer</a></div>
+# <div align=center><a href="https://play.google.com/store/apps/details?id=com.droid2developers.wallset" title="Wallset">Wallset - Automatic 4K HD Mobile Wallpaper Changer</a></div>
 
 ### <div align=center>Material UI&nbsp;&nbsp; &nbsp;&nbsp;Auto Wallpapers</div>
 ### <div align=center>Curated Collections&nbsp;&nbsp; &nbsp;&nbsp;Wallpaper Profiles</div>
