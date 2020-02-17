@@ -2,46 +2,16 @@
     <string name="app_name">Wallset</string>
     <string name="app_name_premium">Wallset Premium</string>
     <string name="app_name_official">Wallset Official</string>
+    <string name="share_message_detailed">"Wallset Official - Automatic Wallpaper Changer\n\nMake your phone more &amp; attractive form our curated 4K, HD Wallpaper and experience the best phone backgrounds. This app is designed to automate the mess of changing the wallpaper. Our auto wallpaper changer feature includes tons of customizations best suited for your style.\n"</string>
 
-<!--    &lt;!&ndash; AdMob Test Ads Ids &ndash;&gt;-->
+<!--    &lt;!&ndash;    &lt;!&ndash; AdMob Test Ads Ids &ndash;&gt;&ndash;&gt;-->
 <!--    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>-->
-<!--    <string name="banner_home_ad">ca-app-pub-3940256099942544/6300978111</string>-->
-<!--    <string name="banner_curated_ad">ca-app-pub-3940256099942544/6300978111</string>-->
-<!--    <string name="banner_latest_ad">ca-app-pub-3940256099942544/6300978111</string>-->
-<!--    <string name="banner_trending_ad">ca-app-pub-3940256099942544/6300978111</string>-->
-<!--    <string name="banner_editor_ad">ca-app-pub-3940256099942544/6300978111</string>-->
-<!--    <string name="banner_collection_ad">ca-app-pub-3940256099942544/6300978111</string>-->
-<!--    <string name="banner_fav_ad">ca-app-pub-3940256099942544/6300978111</string>-->
-<!--    <string name="banner_auto_ad">ca-app-pub-3940256099942544/6300978111</string>-->
-<!--    <string name="banner_downloads_ad">ca-app-pub-3940256099942544/6300978111</string>-->
-<!--    <string name="banner_settings_ad">ca-app-pub-3940256099942544/6300978111</string>-->
-<!--    <string name="banner_about_ad">ca-app-pub-3940256099942544/6300978111</string>-->
-<!--    <string name="banner_search_collections_ad">ca-app-pub-3940256099942544/6300978111</string>-->
-<!--    <string name="banner_search_ad">ca-app-pub-3940256099942544/6300978111</string>-->
-<!--    <string name="banner_pager_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="main_banner_id">ca-app-pub-3940256099942544/6300978111</string>-->
 
 
-
-
-    <!-- AdMob Real Ads Ids -->
-    <string name="admob_app_id">ca-app-pub-8215970961458765~8049069158</string>
-    <string name="banner_home_ad">ca-app-pub-8215970961458765/7674019852</string>
-    <string name="banner_curated_ad">ca-app-pub-8215970961458765/2775264007</string>
-    <string name="banner_latest_ad">ca-app-pub-8215970961458765/7924838279</string>
-    <string name="banner_trending_ad">ca-app-pub-8215970961458765/9098319145</string>
-    <string name="banner_editor_ad">ca-app-pub-8215970961458765/4127890034</string>
-    <string name="banner_collection_ad">ca-app-pub-8215970961458765/9347948193</string>
-    <string name="banner_fav_ad">ca-app-pub-8215970961458765/6721784855</string>
-    <string name="banner_auto_ad">ca-app-pub-8215970961458765/7402094099</string>
-    <string name="banner_downloads_ad">ca-app-pub-8215970961458765/7875563356</string>
-    <string name="banner_settings_ad">ca-app-pub-8215970961458765/3462849082</string>
-    <string name="banner_about_ad">ca-app-pub-8215970961458765/2623236674</string>
-    <string name="banner_search_collections_ad">ca-app-pub-8215970961458765/5408703180</string>
-    <string name="banner_search_ad">ca-app-pub-8215970961458765/2782539844</string>
-    <string name="banner_pager_ad">ca-app-pub-8215970961458765/9727222149</string>
-
-
-
+<!--         //AdMob Real Ads Ids -->
+        <string name="admob_app_id">ca-app-pub-8215970961458765~8049069158</string>
+        <string name="main_banner_id">ca-app-pub-8215970961458765/8411898757</string>
 
 
     <string name="close">close</string>
@@ -57,10 +27,100 @@
     <string name="purchased">Purchased</string>
     <string name="order_number">Order Number</string>
     <string name="thumbnail">thumbnail</string>
-    <string name="profile_warning">Premium Feature! On free version of app only 2 profiles can be created…</string>
+    <string name="profile_warning">On free version of app only 3 profiles can be created for all devices. Please consider deleting any unused profiles or you can upgrade anytime to Wallset Premium.</string>
     <string name="successful">Successful</string>
     <string name="failure">Failure</string>
     <string name="v1_0">v1.0</string>
+    <string name="new_profile">New Profile</string>
+    <string name="the_night_sky">The Night Sky</string>
+    <string name="_2_months_ago">2 Months ago</string>
+    <string name="_200">200+</string>
+    <string name="premium_upgrade">Premium Upgrade</string>
+    <string name="buy_pro">Buy Pro</string>
+    <string name="select_your_option">Select your option</string>
+    <string name="from_storage">From Storage</string>
+    <string name="from_favourites">From Favourites</string>
+    <string name="select_your_wallpaper">Select your wallpaper</string>
+    <string name="photos">Photos</string>
+    <string name="_24">24</string>
+    <string name="april">APRIL</string>
+    <string name="featured_walls">Featured Walls</string>
+    <string name="collections_picked_for_you_by_our_editors">Collections picked for you by our editors</string>
+    <string name="popular_collections">Popular Collections</string>
+    <string name="from_categories_that_everyone_loves">From Categories that Everyone Loves</string>
+    <string name="curated_collections">Curated Collections</string>
+    <string name="collections_specifically_designed_for_your_device">Collections specifically designed for your device</string>
+    <string name="initial_storage">0.0MB</string>
+    <string name="content_enabled">Adult content enabled</string>
+    <string name="content_disabled">Adult content disabled</string>
+
+    <string name="both"><![CDATA[Both (Homescreen & Lockscreen)]]></string>
+    <string name="homescreen">Homescreen</string>
+    <string name="lockscreen">Lockscreen</string>
+    <string name="both_different"><![CDATA[Both Different (Homescreen & Lockscreen)]]></string>
+
+    <string name="fixed">Fixed</string>
+    <string name="scrollable">Scrollable</string>
+    <string name="optimized">Optimized</string>
+    <string name="regular">Regular</string>
+    <string name="original">Original</string>
+    <string name="raw">Raw</string>
+    <string name="unsplash">Unsplash</string>
+    <string name="wallhaven">Wallhaven</string>
+    <string name="both_engine"><![CDATA[Both (Unsplash & Wallhaven)]]></string>
+    <string name="no_network">Woops!</string>
+    <string name="no_network_detail">No Internet connection. Make sure Wi-Fi or cellular data is turned on then try again</string>
+    <string name="no_favourites">No Favourites</string>
+    <string name="favourites_detail">Like some wallpapers to add to your\'s favourites</string>
+    <string name="initial_percent">0%</string>
+    <string name="go_back">Go Back</string>
+    <string name="auto_walls_message_for_favourites">Favourite Walls must be greater than 10 to set as Auto Wallpapers or rather change wallpaper source below.</string>
+    <string name="alert">Alert!</string>
+    <string name="auto_desc">Enable if tired of setting wallpapers manually</string>
+    <string name="automate_phone">Automate Phone</string>
+    <string name="random_wallpaper">Random Wallpaper</string>
+    <string name="random_description">Generate Random Wallpapers</string>
+    <string name="pick_description">Select wallpaper from storage</string>
+    <string name="pick_wallpaper">Pick Wallpaper</string>
+    <string name="wallpaper_source">Wallpaper Source</string>
+    <string name="random">Random</string>
+    <string name="auto_playlists">Auto Playlists</string>
+    <string name="playlists_info">Create your own wallpapers slideshow</string>
+    <string name="wallpaper_profiles">Wallpaper Profiles</string>
+    <string name="profiles_info">One-Click Change wallpapers for every mood</string>
+    <string name="enable_wallpaper_slideshow">Enable wallpaper slideshow</string>
+    <string name="logo">Logo</string>
+    <string name="only_on_wi_fi">Only On Wi-Fi</string>
+    <string name="wifi_info">Device must be connected to wifi</string>
+    <string name="apply_on">Apply On</string>
+    <string name="apply_info"><![CDATA[Both (Homescreen & lockscreen)]]></string>
+    <string name="every_hour">Every hour</string>
+    <string name="wallpaper_interval">Wallpaper Interval</string>
+    <string name="wallpaper_crop">Wallpaper Crop</string>
+    <string name="navigation_slider">Navigation Slider</string>
+    <string name="options_button">Options Button</string>
+    <string name="automatic_wallpapers">Automatic Wallpapers</string>
+    <string name="auto_wallpaper">Auto Wallpaper</string>
+    <string name="auto_switch_info">Fresh wallpapers with Time</string>
+    <string name="columns_2">2 Columns</string>
+    <string name="columns_3">3 Columns</string>
+    <string name="columns_4">4 Columns</string>
+    <string name="select_option">Select Option</string>
+    <string name="done">Done</string>
+    <string name="storage_desc">This app needs storage permission to work properly and perform some specific tasks. And the features are solely rely on this permission.</string>
+    <string name="profile_desc">Are you sure  you want to change your current wallpaper profile. This will change your current Homescreen and Lockscreen wallpapers simultaneously. \n\nNote: Profiles are One-Click change wallpaper package for both HomeScreen and Lockscreen. You can add or delete profiles with crop customizations.</string>
+    <string name="profile_error">Your Device Does not support lockscreen wallpapers. Profile can\'t be saved.</string>
+    <string name="profile_error_main">Error in saving current profile!</string>
+    <string name="premium_alert">Premium Feature!</string>
+    <string name="playlists_note">\n\nNote: Auto Playlists are user made collections of wallpapers stored locally in device with either Personal or Public Directory. Which can be changed automatically based on Time Interval provided by user or Double Tap on Homescreen.</string>
+    <string name="premium_message">Upgrade to Wallset Premium to unlock some exclusive features. It\'s just a one time purchase.</string>
+    <string name="delay_message">Playlists feature is still in beta phase due to some internal security changes in Android 10 devices. Just keep calm it will be available in next update.</string>
+    <string name="coming_soon">Coming Soon!</string>
+    <string name="save_profile">Save Profile?</string>
+    <string name="profile_confirm_save"><![CDATA[Are you sure you want to save new profile with your current Homescreen & Lockscreen wallpapers.]]></string>
+    <string name="dummy_header">Photo By- Alex Rodriguez</string>
+    <string name="dummy_desc">This is purely an event endpoint used to increment the number of downloads a photo has</string>
+    <string name="randomize">Randomize</string>
 
 
     <string-array name="Trending_Searches">
